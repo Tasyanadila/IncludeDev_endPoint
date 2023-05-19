@@ -65,9 +65,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## NAMA ANGGOTA KELOMPOK
+## 🌱 NAMA ANGGOTA KELOMPOK 🌱
 
-    Siti Nurrahmasita (2108107010015) <br>
+    Siti Nurrahmasita (2108107010015) 
     Dhaifina Alifa Putri (2108107010018)
     Niswah Nasyithah (2108107010034) 
     Tasya Nadila (2108107010036)
