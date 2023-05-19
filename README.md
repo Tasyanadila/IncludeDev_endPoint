@@ -67,10 +67,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## NAMA ANGGOTA KELOMPOK
 
-Siti Nurrahmasita (2108107010015)
-Dhaifina Alifa Putri (2108107010018)
-Niswah Nasyithah (2108107010034) 
-Tasya Nadila (2108107010036)
-Faiza Sabila (2108107010083)
-Hadija Humaira (2108107010084)
+    Siti Nurrahmasita (2108107010015) <br>
+    Dhaifina Alifa Putri (2108107010018)
+    Niswah Nasyithah (2108107010034) 
+    Tasya Nadila (2108107010036)
+    Faiza Sabila (2108107010083)
+    Hadija Humaira (2108107010084)
 
